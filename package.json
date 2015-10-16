@@ -1,6 +1,6 @@
 {
   "name": "immutable-to-js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Convert immutable-js value to regular js value",
   "main": "index.js",
   "scripts": {
